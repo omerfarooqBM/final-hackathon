@@ -18,13 +18,14 @@ import {
 // https://firebase.google.com/docs/web/setup#available-libraries
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBU4qTBIg5csq8w8Zy1IijTIWprXhitqU4",
-  authDomain: "project-hassan.firebaseapp.com",
-  projectId: "project-hassan",
-  storageBucket: "project-hassan.appspot.com",
-  messagingSenderId: "911370152283",
-  appId: "1:911370152283:web:3f142846a2a0b4e936527e",
-  measurementId: "G-TET5FSGR1Q"
+  apiKey: "AIzaSyAragPGT2l_su-l8CK7XNHNl6lVxcmgttQ",
+  authDomain: "omerfarooqbinmehfooz.firebaseapp.com",
+  databaseURL: "https://omerfarooqbinmehfooz-default-rtdb.firebaseio.com",
+  projectId: "omerfarooqbinmehfooz",
+  storageBucket: "omerfarooqbinmehfooz.appspot.com",
+  messagingSenderId: "21331685610",
+  appId: "1:21331685610:web:885654f0027cf83ac3a793",
+  measurementId: "G-P4BPN22LZB"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
