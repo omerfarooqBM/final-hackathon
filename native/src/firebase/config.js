@@ -25,7 +25,7 @@ const firebaseConfig = {
   storageBucket: "omerfarooqbinmehfooz.appspot.com",
   messagingSenderId: "21331685610",
   appId: "1:21331685610:web:885654f0027cf83ac3a793",
-  measurementId: "G-P4BPN22LZB"
+  measurementId:  "G-P4BPN22LZB"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
